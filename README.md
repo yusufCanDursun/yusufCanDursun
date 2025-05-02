@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">Full Stack Android And Web Developer</h5>
+<h5 align="center">Junior Developer</h5>
 
 ###
 
