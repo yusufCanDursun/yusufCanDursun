@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Django framework<br><br>📫 How to reach me ycdursun2992@gmail.com</p>
+<p align="left">🌱 I’m currently learning Django framework and JavaScript(React)<br><br>📫 How to reach me ycdursun2992@gmail.com</p>
 
 ###
 
